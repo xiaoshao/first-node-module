@@ -21,6 +21,7 @@
   "bin": {
     "first-node-module-xiaoshao" : "index.js"
   },
+  "publishConfig":{"registry": ""},
   "preferGlobal": "true",
   "homepage": "https://github.com/xiaoshao/first-node-module",
   "dependencies": {}
