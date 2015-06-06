@@ -1,5 +1,5 @@
 {
-  "name": "first-node-module-xiaoshao",
+  "name": "first-node-module-xiaoshao1",
   "version": "1.0.0",
   "description": "this is test node module",
   "main": "index.js",
@@ -18,9 +18,10 @@
   "bugs": {
     "url": "https://github.com/xiaoshao/first-node-module/issues"
   },
-  bin:{
+  "bin": {
     "first-node-module-xiaoshao" : "index.js"
-  }
+  },
+  "preferGlobal": "true",
   "homepage": "https://github.com/xiaoshao/first-node-module",
   "dependencies": {}
 }
