@@ -1,0 +1,22 @@
+{
+  "name": "first-node-module",
+  "version": "1.0.0",
+  "description": "this is test node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xiaoshao/first-node-module.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "zengwei shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoshao/first-node-module/issues"
+  },
+  "homepage": "https://github.com/xiaoshao/first-node-module"
+}
