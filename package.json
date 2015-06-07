@@ -1,6 +1,6 @@
 {
   "name": "first-node-module-xiaoshao1",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "this is test node module",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/xiaoshao/first-node-module/issues"
   },
   "bin": {
-    "first-node-module-xiaoshao" : "index.js"
+    "first-node-module-xiaoshao": "index.js"
   },
   "preferGlobal": "true",
   "homepage": "https://github.com/xiaoshao/first-node-module",
