@@ -24,6 +24,6 @@
   "preferGlobal": "true",
   "homepage": "https://github.com/xiaoshao/first-node-module",
   "dependencies": {
-    "first-node-module-xiaoshao1":"~1.0.0"
+    "first-node-module-xiaoshao1":"~4.0.0"
   }
 }
