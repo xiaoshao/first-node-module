@@ -1,0 +1,20 @@
+{
+  "name": "first-node-module",
+  "main": "index.js",
+  "version": "3.0.0",
+  "homepage": "https://github.com/xiaoshao/first-node-module",
+  "authors": [
+    "Shao Zengwei <zengwei19861029@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "first-node-module" : "3.0.0"
+  }
+}
