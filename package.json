@@ -1,6 +1,6 @@
 {
-  "name": "first-node-module",
-  "version": "3.0.0",
+  "name": "first-node-module-xiaoshao1",
+  "version": "4.0.0",
   "description": "this is test node module",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "preferGlobal": "true",
   "homepage": "https://github.com/xiaoshao/first-node-module",
   "dependencies": {
-    "first-node-module" : "3.0.0"
+    "first-node-module" : "4.0.0"
   }
 }
